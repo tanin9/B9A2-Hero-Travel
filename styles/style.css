@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+/* Footer style */
+
+footer {
+    width: 1350px;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    padding-top: 100px;
+    
+
+}
+
+.footer-img1 {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 15px;
+
+}
+
+#footer-description {
+    width: 769px;
+    color: #5A5A5D;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 335px;
+    margin-bottom: 32px;
+
+}
+
+.footer-img2 {
+    width: 170px;
+    margin-left: 600px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+hr {
+    margin: 50px 340px 50px;
+}
+
+#copy-right {
+    color: #131318;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+    footer{
+        width: 410px;
+        
+    }
+    #footer-description
+     {
+        width: 320px;
+        height: 105px;
+        margin-left: 35px;
+    }
+
+    .footer-img2 {
+     
+        margin-left: 110px;
+    
+    
+    }
+
+    hr {
+        margin: 50px 40px 50px;
+    }
+    
+}
