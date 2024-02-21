@@ -57,7 +57,7 @@ nav {
 
     border-radius: 20px;
     background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),
-        url('/images/Group\ 13\ \(1\)\ \(1\).png') no-repeat center center/cover;
+        url('/Images/Group\ 13\ \(1\)\ \(1\).png') no-repeat center center/cover;
     margin: auto;
     padding: 90px;
 
@@ -122,7 +122,7 @@ nav {
 
 .gallery-pic-1 {
     margin: 10px;
-    background: url('/images/Rectangle 5.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 5.png') no-repeat center center/cover;
 
     border-radius: 16px;
 
@@ -130,7 +130,7 @@ nav {
 
 .gallery-pic-2 {
     margin: 10px;
-    background: url('/images/Rectangle 8.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 8.png') no-repeat center center/cover;
     border-radius: 16px;
 }
 
@@ -143,19 +143,19 @@ nav {
 
 .gallery-pic-3 {
     margin: 10px;
-    background: url('/images/Rectangle 6.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 6.png') no-repeat center center/cover;
     border-radius: 16px;
 }
 
 .gallery-pic-4 {
     margin: 10px;
-    background: url('/images/Rectangle 7.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 7.png') no-repeat center center/cover;
     border-radius: 16px;
 }
 
 .gallery-pic-5 {
     margin: 10px;
-    background: url('/images/Rectangle 9.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 9.png') no-repeat center center/cover;
     border-radius: 16px;
 }
 
@@ -183,7 +183,7 @@ nav {
 
 .gallery-pic-6 {
     margin: 10px;
-    background: url('/images/Rectangle 11.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 11.png') no-repeat center center/cover;
 
     border-radius: 16px;
 
@@ -191,7 +191,7 @@ nav {
 
 .gallery-pic-7 {
     margin: 10px;
-    background: url('/images/Rectangle 10.png') no-repeat center center/cover;
+    background: url('/Images/Rectangle 10.png') no-repeat center center/cover;
     border-radius: 16px;
 }
 
@@ -226,7 +226,7 @@ nav {
 
 .card-banner1 {
     padding: 50px;
-    background: url('/images/Group\ 39.png') no-repeat center center/cover;
+    background: url('/Images/Group\ 39.png') no-repeat center center/cover;
     border-radius: 20px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -236,7 +236,7 @@ nav {
 
 .card-banner2 {
     padding: 50px;
-    background: url('/images/Group\ 40.png') no-repeat center center/cover;
+    background: url('/Images/Group\ 40.png') no-repeat center center/cover;
     border-radius: 20px;
 
 }
@@ -307,7 +307,7 @@ nav {
 }
 
 .newsletterPart2 {
-    background: url('/images/Rectangle\ 8\ \(1\).png') no-repeat center center/cover;
+    background: url('/Images/Rectangle\ 8\ \(1\).png') no-repeat center center/cover;
     width: 700px;
     display: flex;
     justify-content: end;
